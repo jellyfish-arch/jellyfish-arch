@@ -6,7 +6,6 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building a **Cyberpunk Survivor.io-style game**
 - 🌱 Learning **Core Java** from ground up
 - 🎯 Goal: Become a professional developer and build awesome things
 - ⚡ Fun fact: I think in code and dream in neon 🌆
