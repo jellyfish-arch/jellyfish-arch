@@ -8,7 +8,7 @@
 
 - 🧠 Studying **Computer Science & Engineering** with a focus on **AI/ML**
 - ☕ Deepening my **Java** skills through consistent daily building
-- 🐍 Exploring **Advanced Python** — DSA, automation, OOP and beyond
+- 🐍 Exploring **Advanced Python** — DSA, automation, file handling, testing & more
 - 🎮 Building a **cyberpunk roguelite game** as a side project
 - 🎯 Goal: Land a software/AI engineering internship and keep shipping cool things
 - ⚡ Fun fact: I think in code and dream in neon 🌆
@@ -39,8 +39,8 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Jelly Fish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jellyfish-arch&show_icons=true&theme=radical&cache_seconds=1800)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jellyfish-arch&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=jellyfish-arch&theme=radical)
+![Jelly Fish's GitHub Streak](https://streak-stats.demolab.com?user=jellyfish-arch&theme=radical)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jellyfish-arch&theme=react-dark&hide_border=true&area=true)
