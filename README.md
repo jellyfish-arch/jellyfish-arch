@@ -41,6 +41,6 @@
 
 ## 📊 GitHub Stats
 
-![Jelly Fish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jellyfish-arch&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jellyfish-arch&layout=compact&theme=radical)
+![Jelly Fish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jellyfish-arch&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jellyfish-arch&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=jellyfish-arch&theme=radical)
