@@ -6,12 +6,12 @@
 
 ## 🚀 About Me
 
-- 🧠 Studying **Computer Science & Engineering** with a focus on **AI/ML**
-- ☕ Deepening my **Java** skills through consistent daily building
-- 🐍 Exploring **Advanced Python** — DSA, automation, file handling, testing & more
-- 🎮 Building a **cyberpunk roguelite game** as a side project
+- 🧠 Studying **Computer Science & Engineering** with a focus on **AI/ML**.
+- ☕ Deepening my **Java** skills through consistent daily building.
+- 🐍 Exploring **Advanced Python** — DSA, automation, file handling, testing & more.
+- 🎮 Building a **cyberpunk roguelite game** as a side project.
 - 🎯 Goal: Land a software/AI engineering internship and keep shipping cool things
-- ⚡ Fun fact: I think in code and dream in neon 🌆
+- ⚡ Fun fact: I think in code and dream in neon 🌆.
 
 ---
 
