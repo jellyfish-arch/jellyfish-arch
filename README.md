@@ -76,6 +76,12 @@ A high-performance **async task orchestration engine** built as a showcase of ad
 - Full `pytest` test suite with mocking and edge case validation
 - **Tech:** Python, asyncio, pytest
 
+#### 🔐 CipherVault — Password Manager & Encryption Toolkit
+A **browser-based password manager** powered by real cryptography — **AES-256-GCM encryption** and **PBKDF2 key derivation** via the native Web Crypto API.
+- Encrypted vault (localStorage), password generator, text encrypt/decrypt, security audit engine
+- Zero dependencies, zero servers — fully private and offline-capable
+- **Tech:** HTML, CSS, JavaScript, Web Crypto API
+
 #### 🧪 Polyglot Experiment
 A cross-language experiment solving the same problems in Python, Java, and JavaScript — demonstrating multi-language thinking and adaptability.
 - **Tech:** Python, Java, HTML/JS
