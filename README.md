@@ -54,7 +54,7 @@
 
 | Area | What's Inside |
 |------|--------------|
-| `Programs/` | Day 01–05: logic building, string manipulation, arrays, control flow |
+| `Programs/` | Day 01–06: logic building, arrays, control flow, advanced DS, multithreading, DP |
 | `basics/` | `HelloWorld.java`, **ATM System** (OOP: Account, ATM classes), **E-Commerce Cart** (Product, Cart, CartItem) |
 | `advanced/` | `Generics.java`, **Ticket Booking System** (Seat, TicketSystem, Main) |
 
@@ -78,8 +78,8 @@ A high-performance **async task orchestration engine** built as a showcase of ad
 
 #### 🔐 CipherVault — Password Manager & Encryption Toolkit
 A **browser-based password manager** powered by real cryptography — **AES-256-GCM encryption** and **PBKDF2 key derivation** via the native Web Crypto API.
-- Encrypted vault (localStorage), password generator, text encrypt/decrypt, security audit engine
-- Zero dependencies, zero servers — fully private and offline-capable
+- Encrypted vault (localStorage), password generator, text encrypt/decrypt, security audit engine, secure recovery system
+- Lock screen UI, dark/light themes, zero dependencies, zero servers — fully private and offline-capable
 - **Tech:** HTML, CSS, JavaScript, Web Crypto API
 
 #### 🧪 Polyglot Experiment
