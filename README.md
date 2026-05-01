@@ -9,7 +9,7 @@
 - 🧠 Studying **Computer Science & Engineering** with a focus on **AI/ML**.
 - ☕ Deepening my **Java** skills through daily structured building — OOP, system design, data structures.
 - 🐍 Advancing through **Python** — async systems, OOP patterns, file handling, testing & automation.
-- 🌐 Building real-world projects with **HTML, CSS & JS** — including AI-powered web tools.
+- 🌐 Building real-world projects with **HTML, CSS & JS** — including AI-powered web tools & cryptography apps.
 - 🎮 Also building a **cyberpunk roguelite game** as a side project.
 - 🎯 Goal: Land a software/AI engineering internship and keep shipping cool things.
 - ⚡ Fun fact: I think in code and dream in neon 🌆.
@@ -38,12 +38,13 @@
 > Deep Python: from fundamentals to advanced systems, OOP patterns, testing & automation.
 
 | Area | What's Inside |
-|------|--------------|
-| `foundation/basics/` | 10 programs — calculator, expense tracker, password generator, to-do list, and more |
+|------|---------------|
+| `foundation/basics/` | 10 programs — calculator, expense tracker, password generator, to-do list, URL checker, and more |
 | `foundation/intermediate/` | 10 programs — list comprehensions, decorators, generators, closures, collections module |
-| `foundation/advanced/` | Multithreading, thread pools, memoization, context managers, singletons |
-| `foundation/oops/` | 10 programs — full OOP coverage: inheritance, polymorphism, magic methods, design patterns |
+| `foundation/advanced/` | 8 programs — multithreading, thread pools, memoization, context managers, singletons, iterators |
+| `foundation/oops/` | 10 programs — classes, inheritance, polymorphism, encapsulation, abstraction, magic methods, design patterns |
 | `skills/file-handling/` | 10 programs — full CRUD, JSON handling, OS-level file operations |
+| `skills/automation-scripts/` | 4 scripts — file organizer, bulk rename, web scraper, system monitor |
 | `skills/libraries/` | Hand Tracking system using computer vision |
 | `testing/` | 8 programs — `unittest` & `pytest`: parametrize, fixtures, mocking, edge cases |
 
@@ -53,10 +54,10 @@
 > Java from ground up — fundamentals, OOP, and portfolio-ready system projects.
 
 | Area | What's Inside |
-|------|--------------|
-| `Programs/` | Day 01–06: logic building, arrays, control flow, advanced DS, multithreading, DP |
-| `basics/` | `HelloWorld.java`, **ATM System** (OOP: Account, ATM classes), **E-Commerce Cart** (Product, Cart, CartItem) |
-| `advanced/` | `Generics.java`, **Ticket Booking System** (Seat, TicketSystem, Main) |
+|------|---------------|
+| `Programs/` | Day 01–07: logic building, arrays, string manipulation, advanced DS, multithreading, DP, graph traversal, BSTs, NIO, Reflection, Annotations, Socket Programming |
+| `basics/` | `HelloWorld.java`, **ATM System** (login, deposit, withdraw, PIN change), **E-Commerce Cart** (Product, Cart, CartItem, merge/remove) |
+| `advanced/` | `Generics.java`, **Ticket Booking System** (seat management, cancel, view), **Inventory Management System** (Collections, Streams, Lambda, low-stock filter) |
 
 ---
 
@@ -97,6 +98,8 @@ JavaScript   ████████████░░░░░░░░░   I
 Testing      ████████████████░░░░░   unittest · pytest · mocking
 OOP Design   ████████████████████░   Patterns, SOLID, magic methods
 Async Prog.  ████████████████░░░░░   asyncio, threading, thread pools
+Automation   ████████████████░░░░░   File management, web scraping, system monitoring
+Cryptography ████████████░░░░░░░░░   AES-256-GCM, PBKDF2, Web Crypto API
 ```
 
 ---
@@ -111,7 +114,7 @@ Async Prog.  ████████████████░░░░░   a
 
 ## 📌 Currently Working On
 
-- 🔭 Expanding the **advanced-python-journey** with DSA, automation scripts & mini-projects
+- 🔭 Expanding **advanced-python-journey** with DSA, libraries & mini-projects
 - ☕ Adding more system-level Java programs to **core-java-journey**
 - 🚀 Shipping more portfolio-worthy projects to **dev-portfolio-projects**
 - 🎮 Side-questing on a cyberpunk roguelite game
