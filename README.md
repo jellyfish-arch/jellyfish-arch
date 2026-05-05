@@ -122,3 +122,7 @@ Cryptography ████████████░░░░░░░░░   A
 ---
 
 > *"Consistency over intensity. Ship every day."* 🚀
+
+---
+
+*🚀 Maintained by Jelly Fish | Last Updated: May 2026*
