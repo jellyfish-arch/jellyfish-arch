@@ -12,7 +12,7 @@
 
   <br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1200&color=A177FE&center=true&vCenter=true&width=460&lines=Consistency+over+intensity.+Ship+every+day.+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1200&color=A177FE&center=true&vCenter=true&width=600&lines=Consistency+over+intensity.+Ship+every+day.+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -186,7 +186,7 @@ Cryptography ████████████░░░░░░░░░   A
 
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=jellyfish-arch&theme=tokyonight&hide_border=true" height="180" alt="streak stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=jellyfish-arch&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="180" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jellyfish-arch&theme=tokyonight&show_icons=true&hide_border=true" height="180" alt="github stats" />
 
   <br><br>
 
