@@ -13,8 +13,8 @@
   <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1200&color=A177FE&center=true&vCenter=true&random=false&width=460&lines=%E2%80%9CConsistency+over+intensity.+Ship+every+day.%E2%80%9D+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1200&color=A177FE&center=true&vCenter=true&width=460&lines=Consistency+over+intensity.+Ship+every+day.+🚀" alt="Typing SVG" />
+</a>
 
 </div>
 
