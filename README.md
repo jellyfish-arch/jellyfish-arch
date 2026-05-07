@@ -186,7 +186,7 @@ Cryptography ████████████░░░░░░░░░   A
 
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=jellyfish-arch&theme=tokyonight&hide_border=true" height="180" alt="streak stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=jellyfish-arch&theme=tokyonight&show_icons=true&hide_border=true" height="180" alt="github stats" />
+<img src="https://github-readme-stats-virid-pi-69.vercel.app/api?username=jellyfish-arch&theme=tokyonight&show_icons=true&hide_border=true&cache_seconds=21600" height="180" alt="github stats" />
 
   <br><br>
 
