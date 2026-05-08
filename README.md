@@ -90,7 +90,8 @@
 | `foundation/oops/` | 10 programs — classes, inheritance, polymorphism, encapsulation, abstraction, magic methods, design patterns |
 | `skills/file-handling/` | 10 programs — full CRUD, JSON handling, OS-level file operations |
 | `skills/automation-scripts/` | 4 scripts — file organizer, bulk rename, web scraper, system monitor |
-| `skills/libraries/` | Hand Tracking system using computer vision |
+| `skills/dsa/` | 10 programs — linked lists, stacks, queues, BST, hash tables, sorting, searching, graphs, heaps, DP |
+| `skills/libraries/` | 10 programs — requests, NumPy, Pandas, Matplotlib, BeautifulSoup, Pillow, tqdm, Rich, Pydantic, dotenv |
 | `testing/` | 8 programs — `unittest` & `pytest`: parametrize, fixtures, mocking, edge cases |
 
 <br>
@@ -153,6 +154,15 @@ A cross-language experiment solving the same problems in Python, Java, and JavaS
 - **Tech:** `Python` · `Java` · `HTML/JS`
 
 </td></tr>
+<tr><td colspan="2">
+
+**🌐 Portfolio**
+
+A premium **developer portfolio webpage** showcasing my work, skills, and learning journey — featuring a dark glassmorphism theme, scroll-reveal animations, typing effects, animated skill bars, tilt cards, and fully responsive design.
+
+- **Tech:** `HTML` · `CSS` · `JavaScript`
+
+</td></tr>
 </table>
 
 ---
@@ -207,6 +217,7 @@ Cryptography ████████████░░░░░░░░░   A
 | 🔭 | Expanding **advanced-python-journey** with DSA, libraries & mini-projects |
 | ☕ | Adding more system-level Java programs to **core-java-journey** |
 | 🚀 | Shipping more portfolio-worthy projects to **dev-portfolio-projects** |
+| 🌐 | Maintaining my **developer portfolio** webpage |
 | 🎮 | Side-questing on a cyberpunk roguelite game |
 
 ---
